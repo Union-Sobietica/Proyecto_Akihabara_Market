@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"config"},{"l":"controller"},{"l":"dao"},{"l":"model"},{"l":"proyecto_Akihabara_Market"},{"l":"service"},{"l":"util"},{"l":"view"}];updateSearchResults();
